@@ -88,7 +88,7 @@
 //     ];
 
 //     let say=voters.reduce(function sesSayi(acc,element){
-//         if(element.voted==false){
+//         if(element.voted==true){
 //          acc++
 //         }
 //         return acc
